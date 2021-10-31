@@ -1,0 +1,5 @@
+# dependencies  npm包文件
+/node_modules
+
+# 打包后的文件
+/dist
